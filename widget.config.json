@@ -1,0 +1,17 @@
+{
+  "packageId": "wpk9WStrpLNBV",
+  "spaceId": "spc242P4cLxkd",
+  "entry": "./src/index.tsx",
+  "name": {
+    "zh-CN": "timeline",
+    "en-US": "timeline"
+  },
+  "icon": "./package_icon.png",
+  "cover": "./cover.png",
+  "authorIcon": "./author_icon.png",
+  "description": {
+    "zh-CN": "timeline 的描述",
+    "en-US": "timeline description"
+  },
+  "sandbox": true
+}
